@@ -1,0 +1,9 @@
+.outer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.inneritem {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 10px;
+}
